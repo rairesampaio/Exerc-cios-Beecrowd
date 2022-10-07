@@ -9,7 +9,7 @@ Imprima a mensagem "MEDIA" e a m√©dia do aluno conforme exemplo abaixo, com 5 d√
 
 import java.util.Scanner;
 
-public class Main {
+public class Media1{
     public static void main(String[] args){
         Scanner leitor = new Scanner(System.in);
 
